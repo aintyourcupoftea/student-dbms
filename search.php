@@ -135,7 +135,7 @@ if($row = mysqli_fetch_assoc($result)){
 <?php  }
 }
 else{
-  echo "Roll no not found Enter the correcy Roll No ";
+  echo "Roll no not found Enter the correct Roll No ";
 } ?>
 	</body>
 </html>
